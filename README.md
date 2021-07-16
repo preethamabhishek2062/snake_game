@@ -1,10 +1,6 @@
 # snake_game
 
-A Flutter project.
-
-## Getting Started
-
-This is a classic 2D Snake game similar to what we used to play in old Nokia phones
+A classic 2D Snake game made using Flutter similar to what we used to play in old Nokia phones.
 
 Demo:
 https://user-images.githubusercontent.com/76392717/125949145-1c8aa4a9-9dab-4b31-9163-def8f22b5afe.mp4
@@ -28,6 +24,6 @@ to either restart the game or go to home page.
 <img width="755" alt="4" src="https://user-images.githubusercontent.com/76392717/125950617-f1e1b035-a717-4bb7-83d1-3e11bbcd43da.png">
 
 
-
+Thank You!
 
 
