@@ -9,8 +9,9 @@ This is a classic 2D Snake game similar to what we used to play in old Nokia pho
 Demo:
 https://user-images.githubusercontent.com/76392717/125949145-1c8aa4a9-9dab-4b31-9163-def8f22b5afe.mp4
 
-when you open the app, you will see home screen with an image and button to start game and exit app.
 <img width="755" alt="1" src="https://user-images.githubusercontent.com/76392717/125950381-a1142181-30a4-4af3-bd8b-be10bb2d35ae.png">
+
+when you open the app, you will see home screen with an image and button to start game and exit app.
 
 Click on start game to play
 <img width="755" alt="2" src="https://user-images.githubusercontent.com/76392717/125950401-210e4f52-378e-4363-b311-8778572d8dce.png">
